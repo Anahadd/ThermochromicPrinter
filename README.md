@@ -18,6 +18,10 @@ The **Arduino-Powered Thermochromic Printer** reduces paper waste by using therm
 
 This project was developed for **BearHacks**, an eco-friendly hackathon, with the goal of creating a sustainable and low-cost alternative for everyday printing needs. By addressing paper waste, the Arduino-Powered Thermochromic Printer aligns with the hackathon's theme of promoting environmentally conscious technology solutions.
 
+## Results
+
+This project eneded up winning **🥇- 1st Place** 
+
 ---
 
 *This project is licensed under the [MIT License](LICENSE).*
