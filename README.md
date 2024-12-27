@@ -20,7 +20,7 @@ This project was developed for **BearHacks**, an eco-friendly hackathon, with th
 
 ## Results
 
-This project eneded up winning **🥇- 1st Place** 
+This project ended up winning **🥇- 1st Place** 
 
 ---
 
